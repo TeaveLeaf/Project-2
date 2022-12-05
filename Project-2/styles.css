@@ -1,0 +1,26 @@
+.banner{
+    background-color: aquamarine;
+}
+
+.nav {
+    width: 33.33%;
+    background-color:  #383F7B;
+    color: white;
+}
+
+.nav a {
+    color: white;
+}
+
+.nav a:hover {
+    
+}
+
+.logo {
+    width: 33.33%;
+}
+
+.image4 {
+max-height: 10%;
+max-width: 10%;
+}
