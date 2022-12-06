@@ -1,3 +1,8 @@
+* {
+    background-color: #383F7B;
+    margin: 0;
+}
+
 .banner{
     background-color: aquamarine;
 }
@@ -6,6 +11,7 @@
     width: 33.33%;
     background-color:  #383F7B;
     color: white;
+    display: flex;
 }
 
 .nav a {
@@ -18,9 +24,32 @@
 
 .logo {
     width: 33.33%;
+    background-color: #383F7B;
 }
 
 .image4 {
 max-height: 10%;
 max-width: 10%;
+}
+
+h2 {
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+.center {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+     transform: translate(-50%, -50%);
+}
+
+.center2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+     transform: translate(-50%, -50%);
 }
