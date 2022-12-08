@@ -1,11 +1,11 @@
 * {
-    background-color: #E0DDE8;
+    /* background-color: #E0DDE8; */
     margin: 0;
     box-sizing: border-box;
 }
 
-.banner{
-    background-color: aquamarine;
+body {
+    background-color: #E0DDE8;
 }
 
 /* .nav {
