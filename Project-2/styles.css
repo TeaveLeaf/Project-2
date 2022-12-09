@@ -49,7 +49,7 @@ nav {
     align-items: center;
 }
 .line {
-    border-right: solid 1px black;
+    border-right: solid 3px black;
 }
 .image4 {
 max-height: 10%;
@@ -116,4 +116,13 @@ footer p {
     align-items: center;
     text-align: center;
     padding: 1% 0%;
+}
+
+p {
+ font-size: x-large;   
+}
+
+.center,
+.center2 {
+    font-size: 40px;
 }
