@@ -115,7 +115,11 @@ footer p {
 }
 
 p {
- font-size: x-large;   
+ font-size: 25px;   
+}
+
+h2 {
+    font-size: 30px;
 }
 
 .center,
@@ -129,4 +133,61 @@ p {
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+.apic-mini {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 2%;
+}
+
+.item07 {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+.item02,
+.item06 {
+    width: 40%;
+}
+
+.homepagecontent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.homepagecontent2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+.item01 {
+    padding-top: 2%;
+}
+
+.item06 p {
+    padding-left: 2%;
+}
+
+.item08 p {
+    font-size: 25px;
+    width: 95%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 4%;
+}
+
+h2 {
+    padding-top: 2%;
 }
