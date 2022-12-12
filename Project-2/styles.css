@@ -31,12 +31,12 @@ nav {
     background-color: #383F7B;
 
 }
-.other-pages,
+/* .other-pages,
 .other-pages a,
 .logo img {
     background-color: #383F7B;
 
-}
+} */
 
 .logo {
     width: 33.33%;
@@ -50,10 +50,6 @@ nav {
 }
 .line {
     border-right: solid 3px black;
-}
-.image4 {
-max-height: 10%;
-max-width: 10%;
 }
 
 h2 {
@@ -125,4 +121,12 @@ p {
 .center,
 .center2 {
     font-size: 40px;
+}
+
+.pic-mini {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
