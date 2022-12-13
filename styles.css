@@ -234,7 +234,7 @@ h2 {
     }
 }
 
-@media only screen and (max-width: 150px) {
+@media only screen and (max-width: 50px) {
     .awarebig {
         width: 100%;
     }
