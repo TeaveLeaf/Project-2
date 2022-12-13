@@ -6,6 +6,8 @@
 
 body {
     background-color: #E0DDE8;
+    width: 100vw;
+    overflow-x: hidden;
 }
 
 /* .nav {
@@ -38,9 +40,21 @@ nav {
 
 } */
 
-.hero,
+/* .hero,
 .hero2 {
     width: 100vw;
+    height: 100vh;
+} */
+
+.heroimage {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("pics/heroimg1.png");
+    background-size: cover;
+}
+
+.hero {
+    width: 100%;
 }
 
 .logo {
