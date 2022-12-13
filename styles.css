@@ -169,6 +169,14 @@ h2 {
     padding-top: 2%;
 }
 
+.awarebig {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 .item07 {
     display: flex;
     flex-wrap: nowrap;
