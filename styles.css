@@ -53,6 +53,13 @@ nav {
     background-size: cover;
 }
 
+.heroimage2 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("pics/heroimg2.png");
+    background-size: cover;
+}
+
 .hero {
     width: 100%;
 }
@@ -214,7 +221,7 @@ h2 {
 /* MEDIA QUERIES */
 @media only screen and (max-width: 300px) {
     .heroimage,
-    .hero2 {
+    .heroimage2 {
         width: 100%;
     }
 }
