@@ -1,5 +1,4 @@
 * {
-    /* background-color: #E0DDE8; */
     margin: 0;
     box-sizing: border-box;
 }
@@ -9,13 +8,6 @@ body {
     width: 100vw;
     overflow-x: hidden;
 }
-
-/* .nav {
-    width: 33.33%;
-    background-color:  #383F7B;
-    color: white;
-    
-} */
 
 nav a {
     color: white;
@@ -27,24 +19,13 @@ nav a:hover {
     color: rgb(231, 232, 232);
     
 }
+
 nav {
     display: flex;
     flex-wrap: wrap;
     background-color: #383F7B;
 
 }
-/* .other-pages,
-.other-pages a,
-.logo img {
-    background-color: #383F7B;
-
-} */
-
-/* .hero,
-.hero2 {
-    width: 100vw;
-    height: 100vh;
-} */
 
 .heroimage {
     width: 100vw;
@@ -66,7 +47,6 @@ nav {
 
 .logo {
     width: 33.33%;
-    background-color: #383F7B;
 }
 .other-pages {
     width: 66.66%;
