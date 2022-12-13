@@ -38,6 +38,11 @@ nav {
 
 } */
 
+.hero,
+.hero2 {
+    width: 100%;
+}
+
 .logo {
     width: 33.33%;
     background-color: #383F7B;
