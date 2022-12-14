@@ -154,7 +154,6 @@ h2 {
     flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
-    text-align: center;
 }
 
 .item07 {
@@ -208,14 +207,19 @@ h2 {
 
 /* MEDIA QUERIES */
 @media only screen and (max-width: 300px) {
-    .heroimage,
-    .heroimage2 {
+    .heroimage {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    .heroimage {
         width: 100%;
     }
 }
 
 @media only screen and (max-width: 2px) {
     .awarebig {
-        width: 2px;
+        width: 100%;
     }
 }
