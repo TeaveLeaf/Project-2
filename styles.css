@@ -218,9 +218,8 @@ h2 {
     }
 }
 
-@media only screen and (max-width: 300px) {
+@media only screen and (device-width: 300px) {
     .awarebig {
-        width: 50px;
-        height: 50px;
+        width: 100%;
     }
 }
