@@ -219,3 +219,11 @@ h2 {
         width: 2px;
     }
 }
+
+@media only screen and (max-width: 300px) {
+    .center,
+    .center2{
+        font-size: small;
+        line-break: 30px;
+    }
+}
